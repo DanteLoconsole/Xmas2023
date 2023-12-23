@@ -1,2 +1,2 @@
 # Rush Hour by Dante Loconsole
-> [OPEN](https://danteloconsole.github.io/Xmas2023/)
+> [Open](https://danteloconsole.github.io/Xmas2023/)
