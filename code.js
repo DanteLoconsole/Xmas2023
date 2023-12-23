@@ -3,7 +3,7 @@ function checkPassword(event) {
         var passwordInput = document.getElementById("password");
         var enteredPassword = passwordInput.value;
 
-        if (enteredPassword === "test") {
+        if (enteredPassword === "kapoen") {
             window.open("https://google.com", "_blank");
             passwordInput.value = "";
             
