@@ -24,5 +24,5 @@ function ja() {
 }
 
 function nee() {
-    window.location = "cat.jpeg";
+    window.location = "brief2.html";
 }
