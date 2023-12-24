@@ -4,9 +4,8 @@ function checkPassword(event) {
         var enteredPassword = passwordInput.value;
 
         if (enteredPassword === "kapoen") {
-            window.location = "Xmas2023.mp4";
+            window.location = "video.html";
             passwordInput.value = "";
-            
         } else {
             passwordInput.style.borderColor = "red";
             passwordInput.style.animation = "shake 0.5s";
