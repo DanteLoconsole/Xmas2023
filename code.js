@@ -4,7 +4,7 @@ function checkPassword(event) {
         var enteredPassword = passwordInput.value;
 
         if (enteredPassword === "kapoen") {
-            window.open("https://google.com", "_blank");
+            window.location = "Xmas2023.mp4";
             passwordInput.value = "";
             
         } else {
